@@ -22,6 +22,8 @@ The Work Day Scheduler is a straightforward calendar application that allows you
 
 ## DEMO
 
+![Work Schedueler with hours 9AM to 12PM](<img width="940" alt="Screen Shot 2023-11-21 at 10 04 00 AM" src="https://github.com/mykaomas/05-Third-Party-APIs/assets/122703042/b003a5b1-d1a6-4014-bb1b-649dad80b52c">)
+
 Use the [link](https://mykaomas.github.io/05-Third-Party-APIs/) to access the calendar.
 
 ## Technologies
